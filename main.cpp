@@ -48,7 +48,7 @@ while(first != ret)
 //delete a node in a given linked list
 //linked list..sorted: how to find an element quickly
 //egg falling from 100th floor
-//flatten a multi level singly linked list.
+//flatten a multi level singly linked list. do this
 
 
 //implement stack that also maintains min value at any point.
